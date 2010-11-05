@@ -183,79 +183,81 @@ msgstr "Rongga"
 
 #: constants.py:280
 msgid "Vasculature - Hard"
-msgstr ""
+msgstr "Vasculature - Keras"
 
 #: constants.py:281
 msgid "Vasculature - Soft"
-msgstr ""
+msgstr "Vasculature - Lembut"
 
 #: constants.py:290
 msgid "Front"
-msgstr ""
+msgstr "Hadapan"
 
 #: constants.py:291
 msgid "Back"
-msgstr ""
+msgstr "Kembali"
 
 #: constants.py:292
 msgid "Top"
-msgstr ""
+msgstr "Atas"
 
 #: constants.py:293
 msgid "Bottom"
-msgstr ""
+msgstr "Bawah"
 
 #: constants.py:294
 msgid "Right"
-msgstr ""
+msgstr "Kanan"
 
 #: constants.py:295
 msgid "Left"
-msgstr ""
+msgstr "Kiri"
 
 #: constants.py:296
 msgid "Isometric"
-msgstr ""
+msgstr "Isometrik"
 
 #: constants.py:307
+#, fuzzy
 msgid "Airways"
-msgstr ""
+msgstr "Airways"
 
 #: constants.py:308
+#, fuzzy
 msgid "Airways II"
-msgstr ""
+msgstr "Airways II"
 
 #: constants.py:309
 msgid "Black & White"
-msgstr ""
+msgstr "Hitam & Putih"
 
 #: constants.py:310
 msgid "Bone + Skin"
-msgstr ""
+msgstr "Tulang & Kulit"
 
 #: constants.py:311
 msgid "Bone + Skin II"
-msgstr ""
+msgstr "Tulang & Kulit II"
 
 #: constants.py:312
 msgid "Dark Bone"
-msgstr ""
+msgstr "Tulang Gelap"
 
 #: constants.py:313
 msgid "Glossy"
-msgstr ""
+msgstr "Gilap"
 
 #: constants.py:314
 msgid "Glossy II"
-msgstr ""
+msgstr "Gilap II"
 
 #: constants.py:315
 msgid "Gold Bone"
-msgstr ""
+msgstr "Tulang Emas"
 
 #: constants.py:316
 msgid "High Contrast"
-msgstr ""
+msgstr "Kontra Tinggi"
 
 #: constants.py:317
 msgid "Low Contrast"
