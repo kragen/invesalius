@@ -20,7 +20,7 @@ msgstr ""
 "X-Poedit-Country: GENERIC\n"
 
 #: constants.py:31
-#, python-format, fuzzy
+#, python-format
 msgid "M %d"
 msgstr "M %d"
 
@@ -105,80 +105,81 @@ msgstr "Rendah"
 
 #: constants.py:252 constants.py:256
 msgid "Medium"
-msgstr ""
+msgstr "Sederhana"
 
 #: constants.py:253 constants.py:256
 msgid "High"
-msgstr ""
+msgstr "Tinggi"
 
 #: constants.py:254 constants.py:255 constants.py:256 surface.py:381
 msgid "Optimal *"
-msgstr ""
+msgstr "Optimum"
 
 #: constants.py:261
 #, python-format
 msgid "Surface %d"
-msgstr ""
+msgstr " %d permukaan"
 
 #: constants.py:264
 msgid "Abdomen"
-msgstr ""
+msgstr "Abdomen"
 
 #: constants.py:266
 msgid "Brain Posterior Fossa"
-msgstr ""
+msgstr " Posterior Fossa Otak"
 
 #: constants.py:267
 msgid "Brain"
-msgstr ""
+msgstr "Otak"
 
 #: constants.py:268 control.py:339 slice_menu.py:39 slice_menu.py:51
 msgid "Default"
-msgstr ""
+msgstr "Mungkir"
 
 #: constants.py:269
 msgid "Emphysema"
-msgstr ""
+msgstr "Emphysema"
 
 #: constants.py:270
 msgid "Ischemia - Hard Non Contrast"
-msgstr ""
+msgstr "Ischemia - Keras Tanpa Kontra"
 
 #: constants.py:271
 msgid "Ischemia - Soft Non Contrast"
-msgstr ""
+msgstr "Ischemia -Lembut Tanpa Kontra"
 
 #: constants.py:272
 msgid "Larynx"
-msgstr ""
+msgstr "Halkum"
 
 #: constants.py:273
 msgid "Liver"
-msgstr ""
+msgstr "Hati"
 
 #: constants.py:274
 msgid "Lung - Soft"
-msgstr ""
+msgstr "Paru-paru-Lembut"
 
 #: constants.py:275
 msgid "Lung - Hard"
-msgstr ""
+msgstr "Paru-paru-Keras"
 
 #: constants.py:276
+#, fuzzy
 msgid "Mediastinum"
-msgstr ""
+msgstr "Mediastinum"
 
 #: constants.py:277 control.py:340 slice_menu.py:46 slice_menu.py:51
 msgid "Manual"
-msgstr ""
+msgstr "Manual"
 
 #: constants.py:278
 msgid "Pelvis"
-msgstr ""
+msgstr "Tulang Punggung"
 
 #: constants.py:279
 msgid "Sinus"
-msgstr ""
+msgstr "Rongga"
 
 #: constants.py:280
 msgid "Vasculature - Hard"
