@@ -329,74 +329,74 @@ msgstr "Pembuluh III"
 
 #: constants.py:335
 msgid "Vascular IV"
-msgstr ""
+msgstr "Pembuluh IV"
 
 #: constants.py:336
 msgid "Yellow Bone"
-msgstr ""
+msgstr "Tulang Kuning"
 
 #: constants.py:358 constants.py:360
 msgid " Off"
-msgstr ""
+msgstr "Padam"
 
 #: constants.py:361 volume.py:552
 msgid "Cut plane"
-msgstr ""
+msgstr "Satah Pemotong"
 
 #: control.py:275
 #, python-format
 msgid "Loading file %d of %d"
-msgstr ""
+msgstr "Pemuatan fail %d of %d"
 
 #: control.py:367 dialogs.py:514 presets.py:44 presets.py:62 presets.py:117
 #: presets.py:148 task_slice.py:406 task_slice.py:408 task_slice.py:420
 #: task_slice.py:422 task_slice.py:458 task_slice.py:461
 msgid "Custom"
-msgstr ""
+msgstr "ukuran"
 
 #: control.py:372
 msgid "Untitled"
-msgstr ""
+msgstr "Tanpa Tajuk"
 
 #: control.py:446
 msgid "Fix gantry tilt applying the degrees below"
-msgstr ""
+msgstr "Baiki kemiringan gantri menggunakan darjah-darjah di bawah"
 
 #: data_notebook.py:39 measures.py:14
 msgid "Linear"
-msgstr ""
+msgstr "lurus"
 
 #: data_notebook.py:40 measures.py:15
 msgid "Angular"
-msgstr ""
+msgstr "Bersudut"
 
 #: data_notebook.py:43 measures.py:18
 msgid "3D"
-msgstr ""
+msgstr "3D"
 
 #: data_notebook.py:44 measures.py:19
 msgid "Axial"
-msgstr ""
+msgstr "Paksi"
 
 #: data_notebook.py:45 measures.py:20
 msgid "Coronal"
-msgstr ""
+msgstr "Korona"
 
 #: data_notebook.py:46 measures.py:21
 msgid "Sagittal"
-msgstr ""
+msgstr "Sagital"
 
 #: data_notebook.py:62
 msgid "Masks"
-msgstr ""
+msgstr "Topeng"
 
 #: data_notebook.py:63
 msgid "3D Surfaces"
-msgstr ""
+msgstr "Permukaan 3D"
 
 #: data_notebook.py:64
 msgid "Measures"
-msgstr ""
+msgstr "Ukuran"
 
 #: data_notebook.py:182 frame.py:894
 msgid "Measure distance"
