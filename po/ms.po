@@ -449,7 +449,7 @@ msgstr "Pilih Rantau Kepentingan"
 
 #: default_tasks.py:210 default_tasks.py:215 default_tasks.py:244
 msgid "Configure 3D surface"
-msgstr ""
+msgstr "konfigurasi Permukaan 3D"
 
 #: default_tasks.py:211
 msgid "Export data"
