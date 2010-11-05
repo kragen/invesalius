@@ -400,52 +400,52 @@ msgstr "Ukuran"
 
 #: data_notebook.py:182 frame.py:894
 msgid "Measure distance"
-msgstr ""
+msgstr "Jarak Ukuran"
 
 #: data_notebook.py:185 frame.py:899
 msgid "Measure angle"
-msgstr ""
+msgstr "Sudut Ukuran"
 
 #: data_notebook.py:433 data_notebook.py:774 data_notebook.py:1020
 #: data_notebook.py:1209
 msgid "Name"
-msgstr ""
+msgstr "Nama"
 
 #: data_notebook.py:494
 msgid "Mask"
-msgstr ""
+msgstr "Topeng"
 
 #: data_notebook.py:775
 msgid "Volume (mm³)"
-msgstr ""
+msgstr "Isipadu (mm³)"
 
 #: data_notebook.py:776
 msgid "Transparency"
-msgstr ""
+msgstr "Lut Sinaran"
 
 #: data_notebook.py:1021
 msgid "Location"
-msgstr ""
+msgstr "Lokasi"
 
 #: data_notebook.py:1022 data_notebook.py:1210
 msgid "Type"
-msgstr ""
+msgstr "Jenis"
 
 #: data_notebook.py:1023 data_notebook.py:1211
 msgid "Value"
-msgstr ""
+msgstr "Nilai"
 
 #: default_tasks.py:134
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 #: default_tasks.py:208 default_tasks.py:213
 msgid "InVesalius start"
-msgstr ""
+msgstr "InVesalius mula"
 
 #: default_tasks.py:209 default_tasks.py:214 default_tasks.py:242
 msgid "Select region of interest"
-msgstr ""
+msgstr "Pilih Rantau Kepentingan"
 
 #: default_tasks.py:210 default_tasks.py:215 default_tasks.py:244
 msgid "Configure 3D surface"
@@ -453,19 +453,19 @@ msgstr ""
 
 #: default_tasks.py:211
 msgid "Export data"
-msgstr ""
+msgstr "Eksport data"
 
 #: default_tasks.py:216
 msgid "Utilize navigation system"
-msgstr ""
+msgstr "Konfigurasi Permukaan 3D"
 
 #: default_viewers.py:79 default_viewers.py:168 task_exporter.py:235
 msgid "Axial slice"
-msgstr ""
+msgstr "Kepingan paksi"
 
 #: default_viewers.py:84 default_viewers.py:174 task_exporter.py:236
 msgid "Coronal slice"
-msgstr ""
+msgstr "Kepingan korona"
 
 #: default_viewers.py:89 default_viewers.py:180 task_exporter.py:237
 msgid "Sagittal slice"
