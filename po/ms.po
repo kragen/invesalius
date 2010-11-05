@@ -261,71 +261,71 @@ msgstr "Kontra Tinggi"
 
 #: constants.py:317
 msgid "Low Contrast"
-msgstr ""
+msgstr "Kontra Rendah"
 
 #: constants.py:318 constants.py:325
 msgid "Soft on White"
-msgstr ""
+msgstr "Lembut Pada Putih"
 
 #: constants.py:319
 msgid "Mid Contrast"
-msgstr ""
+msgstr "Kontra Pertengahan"
 
 #: constants.py:320
 msgid "No Shading"
-msgstr ""
+msgstr "Tanpa Lorekan"
 
 #: constants.py:321
 msgid "Pencil"
-msgstr ""
+msgstr "Pensil"
 
 #: constants.py:322
 msgid "Red on White"
-msgstr ""
+msgstr "Merah Pada Putih"
 
 #: constants.py:323
 msgid "Skin On Blue"
-msgstr ""
+msgstr "Kulit Pada Biru"
 
 #: constants.py:324
 msgid "Skin On Blue II"
-msgstr ""
+msgstr "Kulit Pada Biru II"
 
 #: constants.py:326
 msgid "Soft + Skin"
-msgstr ""
+msgstr "Lembut + Kulit"
 
 #: constants.py:327
 msgid "Soft + Skin II"
-msgstr ""
+msgstr "Lembut + Kulit II"
 
 #: constants.py:328
 msgid "Soft + Skin III"
-msgstr ""
+msgstr "Lembut + Kulit III"
 
 #: constants.py:329
 msgid "Soft On Blue"
-msgstr ""
+msgstr "Lembut Pada Biru"
 
 #: constants.py:330
 msgid "Soft"
-msgstr ""
+msgstr "Lembut"
 
 #: constants.py:331
 msgid "Standard"
-msgstr ""
+msgstr "Tahap"
 
 #: constants.py:332
 msgid "Vascular"
-msgstr ""
+msgstr "Pembuluh"
 
 #: constants.py:333
 msgid "Vascular II"
-msgstr ""
+msgstr "Pembuluh II"
 
 #: constants.py:334
 msgid "Vascular III"
-msgstr ""
+msgstr "Pembuluh III"
 
 #: constants.py:335
 msgid "Vascular IV"
